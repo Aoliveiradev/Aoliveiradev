@@ -11,7 +11,6 @@
 
 - 🚀 Rocketseat / Alura
 
-- :git: do <a @josenicomaia href="https://github.com/josenicomaia" target="blank"><img src="https://github.com/" alt="Jose Maia" height="30" width="30" /></a>
 
 <p align="center">
 <a href="https://twitter.com/lokizinrj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lokizinrj" height="30" width="30" /></a>
