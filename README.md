@@ -5,7 +5,7 @@
 
 - 🌱 Estudando **JavaScript, ReactJS, React Native, TypeScript, NodeJS, CSS, HTML**
 
-- 💬 Formado em **Contabilidade e Administração, Auditor Contábil pela IBRACOM**
+- 💬 Formado em **Contabilidade e Administração, Auditor Contábil pela IBRACON**
 
 - ✉ Contato: **aoliveiradev@gmail.com**
 
