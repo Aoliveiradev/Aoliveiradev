@@ -7,7 +7,7 @@
 
 - 💬 Formado em **Contabilidade e Administração, Auditor Contábil pela IBRACOM**
 
-- ✉ How to reach me **aoliveiradev@gmail.com**
+- ✉ Contato **aoliveiradev@gmail.com**
 
 - 🚀 Rocketseat / Alura
 
