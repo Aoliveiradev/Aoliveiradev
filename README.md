@@ -1,13 +1,13 @@
-<h1 align="center">Olá 👋, Sou Allan Oliveira</h1>
+<h1 align="center">Hello 👋, i`m Allan Oliveira</h1>
 
 
-- 💻 Desempregado no momento 
+- 💻 Developer
 
-- 🌱 Estudando **JavaScript, ReactJS, React Native, TypeScript, NodeJS, CSS, HTML**
+- 🌱 Studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS, CSS, HTML**
 
-- 💬 Formado em **Contabilidade e Administração, Auditor Contábil pela IBRACON**
+- 💬 Formed em **Accounting and Administration, Accounting Auditor for IBRACON**
 
-- ✉ Contato: **aoliveiradev@gmail.com**
+- ✉ Contact: **aoliveiradev@gmail.com**
 
 - 🚀 Rocketseat / Alura
 
