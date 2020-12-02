@@ -5,7 +5,7 @@
 
 - 🌱 Studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS, CSS, HTML**
 
-- 💬 Formed em **Accounting and Administration, Accounting Auditor for IBRACON**
+- 💬 Formation **Accounting and Administration, Accounting Auditor for IBRACON**
 
 - ✉ Contact: **aoliveiradev@gmail.com**
 
