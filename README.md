@@ -5,7 +5,7 @@
 
 - 🌱 Studying **JavaScript, React, React Native, TypeScript, CSS, HTML, Node and Java**
 
-- 💬 Formation **Accounting and Administration, Accounting Auditor
+- 💬 Formation **Systems Analysis and Development, Administration, Accounting and Postgraduate in Accounting Auditor 
 
 - ✉ Contact: **allandaviddev@gmail.com
 
