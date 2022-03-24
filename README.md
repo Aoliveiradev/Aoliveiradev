@@ -3,11 +3,11 @@
 
 - 💻 Developer
 
-- 🌱 Studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS, CSS, HTML**
+- 🌱 Studying **JavaScript, React, React Native, TypeScript, CSS, HTML, Node and Java
 
-- 💬 Formation **Accounting and Administration, Accounting Auditor **
+- 💬 Formation **Accounting and Administration, Accounting Auditor
 
-- ✉ Contact: **allandaviddev@gmail.com**
+- ✉ Contact: **allandaviddev@gmail.com
 
 - 🚀 Rocketseat / Alura
 
