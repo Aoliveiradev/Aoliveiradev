@@ -9,7 +9,7 @@
 
 - ✉ Contact: **allandaviddev@gmail.com
 
-- 🚀 Rocketseat / Alura
+- 🚀 Nicomaia / Kestraa 
 
 
 <p align="center">
