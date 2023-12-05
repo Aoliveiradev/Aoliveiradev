@@ -9,7 +9,7 @@
 
 - ✉ Contact: **allandaviddev@gmail.com
 
-- 🚀 Nicomaia / Kestraa 
+- 🚀 Nicomaia 
 
 
 <p align="center">
