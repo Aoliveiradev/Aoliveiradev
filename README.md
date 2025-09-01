@@ -9,8 +9,6 @@
 
 - ✉ Contact: **allandaviddev@gmail.com
 
-- 🚀 Nicomaia 
-
 
 <p align="center">
 <a href="https://twitter.com/lokizinrj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lokizinrj" height="30" width="30" /></a>
@@ -19,3 +17,4 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aoliveiradev" alt="Aoliveiradev" /> </p>
+
